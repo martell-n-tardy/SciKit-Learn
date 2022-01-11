@@ -5,5 +5,5 @@ This repository contains graduate course work from Pennsylvania State University
 
 * **Supervised Learning - Classification Models:** 
 * **Supervised Learning - Regression:**
-* **Supervised Learning - Advanced Models:**
+* **Supervised Learning - Advanced Models:** Support Vector Machine(SVM), Random Forest, and Adaboos models.
 * **Unsupervised Learning - Clustering:**
