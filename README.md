@@ -14,5 +14,5 @@ This repository contains graduate course work from Pennsylvania State University
 
 ## CONTENTS
 
-* **Supervised Learning:** A folder containing course work on supervised learning with SciKit-Learn with classification, regression, SVM, Random Forest, and Adaboos  models. 
+* **Supervised Learning:** A folder containing course work on supervised learning with SciKit-Learn with classification, regression, SVM, Random Forest, and Adaboos  models. https://github.com/martell-n-tardy/SciKit-Learn/tree/main/Supervised%20Learning
 * **Unsupervised Learning:** A folder containing course work on unsupervised learning with SciKit-Learn with clustering models.
